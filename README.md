@@ -4,6 +4,8 @@ Készítette: Rózsa Milán REAIS3 szerda 14:00
 
 A zárthelyi dolgozatot C# nyelven készítettem el.
 
+A program túl nagy lett és nem fért fel gitre, így a moodlbe töltöttem azt fel.
+
 Elkészített feladatok:
 
 1. feladat
