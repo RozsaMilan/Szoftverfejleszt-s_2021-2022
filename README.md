@@ -2,4 +2,4 @@
 
 Készítette: Rózsa Milán REAIS3 szerda 14:00
 
-Ez hiányzik.
+A use case diagram és az architektúra a mellékelt pdf-ben megtalálható.
