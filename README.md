@@ -7,6 +7,10 @@ A zárthelyi dolgozatot C# nyelven készítettem el.
 Elkészített feladatok:
 
 1. feladat
+  Github repo létrehozása -> DONE
+  README -> DONE
+  Tanárnő meghívása a repo-hoz -> DONE
+  Feledatok mind külön branchen, valamint Release branch -> DONE
   
 2. feladat
   
